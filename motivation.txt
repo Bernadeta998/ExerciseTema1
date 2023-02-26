@@ -1,0 +1,5 @@
+Nama : Bernadeta Ajeng Ayu Widiastuti
+
+Motivasi mengikuti kelas :
+Ingin mengenal dan menguasai pengujian sistem secara otomatis agar tidak perlu lagi menguji secara manual.
+Karena pengujian manual sangat memakan waktu lama, sedangkan semakin lama sistem dan fitur yang dibuat semakin banyak.
